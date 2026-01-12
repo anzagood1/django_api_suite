@@ -41,6 +41,9 @@ INSTALLED_APPS = [
     'rest_framework',
     'homepage',
     'demo_rest_api',
+    "rest_framework",
+    "homepage",
+    "demo_rest_api",
 ]
 
 MIDDLEWARE = [
